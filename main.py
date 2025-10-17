@@ -1,0 +1,4 @@
+x=[[m+n*4+1 for m in range(4)]for n in range(4)]
+for y in x:
+    print(y)
+    
